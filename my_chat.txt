@@ -1,0 +1,17 @@
+# Sample with sounds and formatting
+
+WELCOME Alice$^2#!join
+
+Alice:
+__Hey__ everyone!$^2#!message
+Nice to meet you, @Bob.$^2#!pop
+
+Bob:
+**Welcome** @Alice!$^2#!pop
+Let's make a video.$^2
+
+WELCOME Charlie$^2#!join
+
+Charlie:
+Hello all 😄$^2#!message
+This looks awesome!$^2#!vineboom
